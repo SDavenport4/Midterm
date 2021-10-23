@@ -4,5 +4,5 @@ This personal site is an about me! Click the links below to get to know me bette
 
 [Hobbies](https://github.com/SDavenport4/Midterm/wiki/Hobbies#hobbies)
 [Education](https://github.com/SDavenport4/Midterm/wiki/Education#education-page)
-[Accomplishments](https://github.com/SDavenport4/Midterm/wiki/Hobbies#accomplishments)
-[Family](https://github.com/SDavenport4/Midterm/wiki/Hobbies#family)
+[Accomplishments](https://github.com/SDavenport4/Midterm/wiki/Accomplishments#accomplishments)
+[Family](https://github.com/SDavenport4/Midterm/wiki/Family#family)
